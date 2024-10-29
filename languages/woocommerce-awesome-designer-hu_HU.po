@@ -1,0 +1,961 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trad The Awesome Designer\n"
+"POT-Creation-Date: 2016-10-14 12:31+0200\n"
+"PO-Revision-Date: 2016-10-14 14:35+0200\n"
+"Last-Translator: Zimonyi Géza <info@craetive.hu>\n"
+"Language-Team: Netfs <support@theawesomedesigner.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;e_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: awesome-designer.php:255 awesome-designer.php:258 awesome-designer.php:260
+#: awesome-designer.php:265 awesome-designer.php:268 awesome-designer.php:294
+#, php-format
+msgid "Impossible to create %s directory."
+msgstr "A %s könyvtárat nem lehet létrehozni."
+
+#: includes/admin/galerie.php:18
+msgid "Your Gallery"
+msgstr "A képtárad"
+
+#: includes/admin/galerie.php:57
+msgid "Images already used"
+msgstr "Már használt képek"
+
+#: includes/admin/galerie.php:79
+msgid "Images downloaded"
+msgstr "Letöltött képek"
+
+#: includes/admin/module-accueil.php:34
+msgid "Create New Product"
+msgstr "Új termék létrehozása"
+
+#: includes/admin/module-accueil.php:43
+msgid "Edit Existing Product"
+msgstr "Meglévő termék módosítása"
+
+#: includes/admin/module-accueil.php:55
+msgid "Manage Cliparts"
+msgstr "Clpiartok kezelése"
+
+#: includes/admin/module-accueil.php:64
+msgid "Manage Fonts"
+msgstr "Betűtípusok kezelése"
+
+#: includes/admin/module-accueil.php:76
+msgid "Do the housework!"
+msgstr "Nyomás!"
+
+#: includes/admin/module-admin.php:77 includes/admin/module-admin.php:123
+msgid "Files deleted"
+msgstr "Fájlok törölve"
+
+#: includes/admin/module-admin.php:155
+msgid "DELETE ALL UNUSED IMAGES, UPLOADED BY YOURSELF"
+msgstr "Minden általad feltöltött használaton kívüli kép törlése"
+
+#: includes/admin/module-admin.php:158
+msgid "CLEAR UNUSED PRODUCT PHOTOS"
+msgstr "Használaton kívüli termékfotók törlése"
+
+#: includes/admin/module-admin.php:162
+msgid ""
+"DELETE ALL UNUSED IMAGES, UPLOADED BY YOUR CLIENTS UP TO (number of days "
+"ago)&nbsp;:"
+msgstr ""
+"Minden megrendelő által feltöltött használaton kívüli kép törlése (number of "
+"days ago)&nbsp;:"
+
+#: includes/admin/module-admin.php:169
+msgid "CLEAR UNUSED CLIENT'S PHOTOS"
+msgstr "Használaton kívüli kliens fotók törlése"
+
+#: includes/admin/module-clipart.php:155
+msgid "MANAGE YOUR CLIPARTS"
+msgstr "Clipartjaid kezelése"
+
+#: includes/admin/module-clipart.php:166
+msgid "SELECT ALL"
+msgstr "Mind kijelöl"
+
+#: includes/admin/module-clipart.php:169
+msgid "DELETE SELECTED"
+msgstr "Kiválasztott törlése"
+
+#: includes/admin/module-clipart.php:172
+msgid "HIDE SELECTED"
+msgstr "Kiválasztott elrejtése"
+
+#: includes/admin/module-clipart.php:175
+msgid "SHOW SELECTED"
+msgstr "Kiválasztott mutatása"
+
+#: includes/admin/module-clipart.php:178
+msgid "MOVE SELECTED TO"
+msgstr "Kiválasztott mozgatása"
+
+#: includes/admin/module-clipart.php:215 includes/admin/module-creation.php:445
+#: includes/admin/module-modif.php:490 includes/front/awesome-mobile.php:534
+#: includes/front/awesome.php:583 includes/front/awesome.php:586
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: includes/admin/module-clipart.php:219
+msgid ""
+"SVG or PNG format only, make sure the size is large enough for printing."
+"<br>All the new cliparts will be placed in the first category."
+msgstr "SVG vagy PNG!"
+
+#: includes/admin/module-clipart.php:225
+msgid "Add a new Category"
+msgstr "Új kategória létrehozása"
+
+#: includes/admin/module-clipart.php:248 includes/front/awesome.php:501
+msgid "CATEGORY"
+msgstr "Kategória"
+
+#: includes/admin/module-clipart.php:255
+msgid "delete category and cliparts"
+msgstr "Kategória és clipartok törlése"
+
+#: includes/admin/module-clipart.php:258
+msgid "hide category"
+msgstr "Kategória elrejtése"
+
+#: includes/admin/module-clipart.php:274
+msgid "Change Name"
+msgstr "Átnevezés"
+
+#: includes/admin/module-clipart.php:362 includes/admin/module-creation.php:656
+#: includes/admin/module-modif.php:640 includes/front/awesome-master.php:291
+#: includes/front/awesome-mobile.php:527 includes/front/awesome.php:575
+msgid "Drag'n drop your photos"
+msgstr "Kattintsd és húzd ide a fotókat"
+
+#: includes/admin/module-creation.php:14
+msgid "Type your colors here"
+msgstr "Itt megadhatod a kívánt színeket"
+
+#: includes/admin/module-creation.php:242
+msgid "YOUR PRODUCT IS CREATED"
+msgstr "A terméked elkészült"
+
+#: includes/admin/module-creation.php:245
+msgid "CREATE NEW PRODUCTS"
+msgstr "Új termék létrehozása"
+
+#: includes/admin/module-creation.php:263
+msgid "Create your own product ! You're the boss"
+msgstr "Készítsd el a saját terméked! Te vagy a főnök..."
+
+#: includes/admin/module-creation.php:274
+msgid "Single Print"
+msgstr "Egyoldalas layout"
+
+#: includes/admin/module-creation.php:281
+msgid "Multi Print"
+msgstr "Többoldalas layout"
+
+#: includes/admin/module-creation.php:298
+msgid "Full Size Print Zone</br>with Mask above"
+msgstr "Full Size nyomtatási zóna"
+
+#: includes/admin/module-creation.php:305
+msgid "Print Zone inside</br>with Background"
+msgstr "Inside nyomtatási zóna"
+
+#: includes/admin/module-creation.php:325
+msgid "Name your Product"
+msgstr "A terméked neve"
+
+#: includes/admin/module-creation.php:331
+msgid "Number of printing zone"
+msgstr "A layoutok száma"
+
+#: includes/admin/module-creation.php:342
+msgid "RESET"
+msgstr "reset"
+
+#: includes/admin/module-creation.php:350
+#: includes/admin/module-creation.php:422
+#: includes/admin/module-creation.php:584
+msgid "NEXT"
+msgstr "következő"
+
+#: includes/admin/module-creation.php:370
+#: includes/admin/module-creation.php:553
+msgid "Define the Colors of the Product (default : white)"
+msgstr "A termék színeinek meghatározása (alapértelmezett: fehér)"
+
+#: includes/admin/module-creation.php:370
+#: includes/admin/module-creation.php:553
+msgid "hexadecimal, separated with commas"
+msgstr "HEXA (vesszőkkel tagolt)"
+
+#: includes/admin/module-creation.php:383
+#: includes/admin/module-creation.php:565 includes/admin/module-modif.php:306
+msgid "Colors already used (you can pick them)"
+msgstr "Használatban lévő színek (kattints)"
+
+#: includes/admin/module-creation.php:396
+msgid "Choose the display type"
+msgstr "Válassz megjelenítési módot"
+
+#: includes/admin/module-creation.php:396
+msgid "For the front office"
+msgstr "Kimenet"
+
+#: includes/admin/module-creation.php:399 includes/admin/module-modif.php:335
+#: includes/admin/module-modif.php:336
+msgid "Printing zone name"
+msgstr "Nyomtatási zóna neve"
+
+#: includes/admin/module-creation.php:399 includes/admin/module-modif.php:335
+#: includes/admin/module-modif.php:336
+msgid "Printing zone picture"
+msgstr "Nyomtatási zóna képe"
+
+#: includes/admin/module-creation.php:402
+#: includes/admin/module-creation.php:578 includes/admin/module-modif.php:587
+msgid "OK, DONE"
+msgstr "OK, mehet"
+
+#: includes/admin/module-creation.php:408
+msgid "Printing zone number"
+msgstr "Nyomtatási zóna száma"
+
+#: includes/admin/module-creation.php:415
+msgid "Name your printing zone "
+msgstr "Nyomtatási zóna neve"
+
+#: includes/admin/module-creation.php:426
+#: includes/admin/module-creation.php:456
+#: includes/admin/module-creation.php:479 includes/admin/module-modif.php:479
+msgid "CHANGE IMAGE"
+msgstr "Képcsere"
+
+#: includes/admin/module-creation.php:437 includes/admin/module-modif.php:482
+msgid "Upload A Background"
+msgstr "Háttér feltöltése"
+
+#: includes/admin/module-creation.php:440 includes/admin/module-modif.php:485
+msgid "Upload A Mask"
+msgstr "Maszk feltöltése"
+
+#: includes/admin/module-creation.php:449 includes/admin/module-modif.php:494
+msgid "OR CHOOSE FROM GALLERY"
+msgstr "VAGY válassz a Médiatárból"
+
+#: includes/admin/module-creation.php:461
+msgid "If needed, crop your image"
+msgstr "Ha szükséges, vágd körbe a képet"
+
+#: includes/admin/module-creation.php:461 includes/admin/module-modif.php:479
+#: includes/admin/module-modif.php:502
+msgid "(keep what your client will see)"
+msgstr "(tartsd meg, amit a megrendelőnek látnia kell)"
+
+#: includes/admin/module-creation.php:469 includes/admin/module-modif.php:510
+msgid "CROP IT"
+msgstr "Körbevágás"
+
+#: includes/admin/module-creation.php:482 includes/admin/module-modif.php:518
+msgid "Define the customization zone"
+msgstr "A testreszabható terület meghatározása"
+
+#: includes/admin/module-creation.php:482 includes/admin/module-modif.php:518
+msgid "(Adjust the area and don't forget the bleeds)"
+msgstr "(Adjust the area and don't forget the bleeds)"
+
+#: includes/admin/module-creation.php:486 includes/admin/module-modif.php:522
+msgid ""
+"Type the <span style=\"font-weight:700\">EXACT FINAL PRINT SIZE</span> of "
+"this product "
+msgstr ""
+"Add meg a <span style=\"font-weight:700\">végső nyomtatási méretet</span> "
+"kifutó nélkül"
+
+#: includes/admin/module-creation.php:486 includes/admin/module-modif.php:522
+msgid "(round numbers, no comma)"
+msgstr "(kerek számok!)"
+
+#: includes/admin/module-creation.php:490 includes/admin/module-modif.php:526
+msgid "WIDTH"
+msgstr "szélesség"
+
+#: includes/admin/module-creation.php:497 includes/admin/module-modif.php:533
+msgid "HEIGHT"
+msgstr "magasság"
+
+#: includes/admin/module-creation.php:506 includes/admin/module-modif.php:542
+msgid "Millimeters"
+msgstr "Millimeters"
+
+#: includes/admin/module-creation.php:507 includes/admin/module-modif.php:543
+msgid "Inches"
+msgstr "Inches"
+
+#: includes/admin/module-creation.php:515 includes/admin/module-modif.php:551
+msgid "DEFINE AREA"
+msgstr "Terület meghatározása"
+
+#: includes/admin/module-creation.php:524 includes/admin/module-modif.php:560
+msgid ""
+"Optional: if your image doesn’t fit perfectly with</br>the Print Area, "
+"please adjust it"
+msgstr "Opcionális: fitting"
+
+#: includes/admin/module-creation.php:535
+#: includes/admin/module-creation.php:538 includes/admin/module-modif.php:571
+#: includes/admin/module-modif.php:574
+msgid "horizontal</br>stretch"
+msgstr "vízszintes</br>stretch"
+
+#: includes/admin/module-creation.php:541
+#: includes/admin/module-creation.php:544 includes/admin/module-modif.php:577
+#: includes/admin/module-modif.php:580
+msgid "vertical</br>stretch"
+msgstr "függőleges</br>stretch"
+
+#: includes/admin/module-creation.php:720
+#: includes/admin/module-creation.php:723
+msgid "A color is incorrect"
+msgstr "Nem megfelelő szín."
+
+#: includes/admin/module-creation.php:727
+#: includes/admin/module-creation.php:731
+msgid "Name of product already exist"
+msgstr "Ilyen termék már létezik."
+
+#: includes/admin/module-creation.php:775 includes/admin/module-modif.php:638
+msgid "Printing zone"
+msgstr "Nyomtatási terület"
+
+#: includes/admin/module-font.php:105
+msgid "Choose a Font"
+msgstr "Betűtípus választása"
+
+#: includes/admin/module-font.php:113
+msgid "ADD FONT"
+msgstr "Betűtípus hozzáadása"
+
+#: includes/admin/module-font.php:121
+msgid "Demo Text"
+msgstr "Demó szöveg"
+
+#: includes/admin/module-font.php:130
+msgid "Default font for your customer"
+msgstr "A testreszabó alapértelmezett betűtípusa"
+
+#: includes/admin/module-font.php:154
+msgid "My Fonts"
+msgstr "Betűtípusaim"
+
+#: includes/admin/module-modif.php:232
+msgid "YOUR PRODUCT IS MODIFIED"
+msgstr "A termék módosításra került!"
+
+#: includes/admin/module-modif.php:236
+msgid "Choose and change your product"
+msgstr "Válassz egy terméket a módosításhoz!"
+
+#: includes/admin/module-modif.php:258
+msgid "MODIFY"
+msgstr "Módosítás"
+
+#: includes/admin/module-modif.php:284
+msgid "NAME"
+msgstr "Név"
+
+#: includes/admin/module-modif.php:296
+msgid "Define the Colors of the product"
+msgstr "A termék színeinek meghatározása"
+
+#: includes/admin/module-modif.php:320
+msgid "DELETE THIS PRODUCT"
+msgstr "Törlés"
+
+#: includes/admin/module-modif.php:331
+msgid "Display type"
+msgstr "A típus megjelenítése"
+
+#: includes/admin/module-modif.php:346
+msgid "SAVE CHANGES"
+msgstr "Mentés"
+
+#: includes/admin/module-modif.php:376 includes/admin/module-modif.php:427
+msgid "CHANGE PICTURE OR CROP"
+msgstr "Képcsere vagy képvágás"
+
+#: includes/admin/module-modif.php:379 includes/admin/module-modif.php:430
+msgid "CHANGE PRINT AREA"
+msgstr "Nyomtatási terület megváltoztatása"
+
+#: includes/admin/module-modif.php:391 includes/admin/module-modif.php:442
+msgid "PRINT AREA SIZE"
+msgstr "Nyomtatási terület néretezése"
+
+#: includes/admin/module-modif.php:473
+msgid "CANCEL CHANGE"
+msgstr "Változtatások elvetése"
+
+#: includes/admin/module-modif.php:502
+msgid "CHANGE CROP"
+msgstr "Kivágás megváltoztatása"
+
+#: includes/admin/module-order.php:145
+msgid ""
+"DO YOU WANT TO SAVE TIME ? YOU CAN RECOVER <span style=\"font-"
+"weight:700\">READY TO PRINT</span> IMAGE"
+msgstr ""
+"Visszaállíthatod a <span style=\"font-weight:700\">READY TO PRINT</span> "
+"képet"
+
+#: includes/admin/module-order.php:149
+msgid ""
+"LEARN MORE ABOUT</br><span style=\"color:#fff\">OUR WEB TO PRINT</span></"
+"br>TECHNOLOGY"
+msgstr ""
+"Tudj meg többet a </br><span style=\"color:#fff\">OUR WEB TO PRINT</span></"
+"br>technológiáról!"
+
+#: includes/admin/module-order.php:197
+msgid "Add reference points"
+msgstr "Referenciapontok megadása"
+
+#: includes/admin/module-order.php:200
+msgid "Remove reference points"
+msgstr "Referenciapontok eltávolítása"
+
+#: includes/admin/module-order.php:203
+msgid "Composition only"
+msgstr "Csak kompozíció"
+
+#: includes/admin/module-order.php:206
+msgid "Full preview"
+msgstr "Teljes előnézeti kép"
+
+#: includes/admin/module-order.php:215
+msgid "PRINT THESE INFORMATIONS"
+msgstr "Az információk kinyomtatása"
+
+#: includes/admin/module-order.php:226
+msgid "FINAL DOCUMENT SIZE"
+msgstr "Végső nyomat méret"
+
+#: includes/admin/module-order.php:258 includes/front/awesome-mobile.php:231
+#: includes/front/awesome.php:50
+msgid "BACKGROUND COLOR"
+msgstr "Háttérszín"
+
+#: includes/admin/module-order.php:291
+msgid "IMAGE NUMBER"
+msgstr "Kép száma"
+
+#: includes/admin/module-order.php:296 includes/admin/module-order.php:532
+#: includes/admin/module-order.php:534
+msgid "DOWNLOAD"
+msgstr "Letöltés"
+
+#: includes/admin/module-order.php:301
+msgid "Original image"
+msgstr "Eredeti kép"
+
+#: includes/admin/module-order.php:306
+msgid "CROP LEFT"
+msgstr "Vágás - bal"
+
+#: includes/admin/module-order.php:314
+msgid "CROP TOP"
+msgstr "Vágás - felső"
+
+#: includes/admin/module-order.php:322
+msgid "CROP WIDTH"
+msgstr "Vágás - szélesség"
+
+#: includes/admin/module-order.php:330
+msgid "CROP HEIGHT"
+msgstr "Vágás - magasság"
+
+#: includes/admin/module-order.php:339
+msgid "FINAL IMAGE SIZE"
+msgstr "Végső képméret"
+
+#: includes/admin/module-order.php:349
+msgid "IMAGE SHAPE"
+msgstr "Kép körvonal"
+
+#: includes/admin/module-order.php:353
+msgid "GET SHAPE"
+msgstr "Körvonal megadása"
+
+#: includes/admin/module-order.php:359 includes/admin/module-order.php:458
+#: includes/admin/module-order.php:556
+msgid "ROTATION"
+msgstr "Elforgatás"
+
+#: includes/admin/module-order.php:363 includes/admin/module-order.php:462
+#: includes/admin/module-order.php:560
+msgid "Clockwork"
+msgstr "Óramutató járásának megfelelő"
+
+#: includes/admin/module-order.php:369 includes/admin/module-order.php:468
+#: includes/admin/module-order.php:566
+msgid "POSITION"
+msgstr "Pozíció"
+
+#: includes/admin/module-order.php:370
+msgid "LEFT TOP CORNER OF THE IMAGE"
+msgstr "Kép - bal felső sarok"
+
+#: includes/admin/module-order.php:375 includes/admin/module-order.php:473
+#: includes/admin/module-order.php:571
+msgid "LEFT POSITION"
+msgstr "Pozíció - bal"
+
+#: includes/admin/module-order.php:382 includes/admin/module-order.php:480
+#: includes/admin/module-order.php:578
+msgid "TOP POSITION"
+msgstr "Pozíció - jobb"
+
+#: includes/admin/module-order.php:391 includes/admin/module-order.php:489
+#: includes/admin/module-order.php:587
+msgid "OPACITY"
+msgstr "Áttetszőség"
+
+#: includes/admin/module-order.php:401 includes/admin/module-order.php:499
+#: includes/admin/module-order.php:597
+msgid "FLIP HORIZONTAL"
+msgstr "Vízszintes tükrözés"
+
+#: includes/admin/module-order.php:402 includes/admin/module-order.php:500
+#: includes/admin/module-order.php:598
+msgid "TRUE"
+msgstr "Valós"
+
+#: includes/admin/module-order.php:409
+msgid "BORDER INSIDE"
+msgstr "Belső keret"
+
+#: includes/admin/module-order.php:413 includes/admin/module-order.php:604
+msgid "COLOR"
+msgstr "Szín"
+
+#: includes/admin/module-order.php:433
+msgid "TEXTE NUMBER"
+msgstr "Szöveg szám"
+
+#: includes/admin/module-order.php:437
+msgid "GET TEXT"
+msgstr "Szöveg hozzáadása"
+
+#: includes/admin/module-order.php:442 includes/admin/module-order.php:540
+msgid "SIZE WIDTH"
+msgstr "Szélesség"
+
+#: includes/admin/module-order.php:449 includes/admin/module-order.php:547
+msgid "SIZE HEIGHT"
+msgstr "Magasság"
+
+#: includes/admin/module-order.php:469 includes/admin/module-order.php:567
+msgid "Bounding Box if Rotated"
+msgstr "Bounding Box if Rotated"
+
+#: includes/admin/module-order.php:505
+msgid "For Your Information the Font Is"
+msgstr "For Your Information the Font Is"
+
+#: includes/admin/module-order.php:526
+msgid "CLIPART NUMBER"
+msgstr "Clipart szám"
+
+#: includes/admin/module-order.php:612
+msgid "For Your Information the Clipart Is"
+msgstr "For Your Information the Clipart Is"
+
+#: includes/class-wc-awesome-back.php:75
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:76
+msgid "FAQ"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:77
+msgid "Support"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:105
+msgid ""
+"Please update WooCommerce to the latest version! Awesome Designer only works "
+"with version 2.1 or newer."
+msgstr ""
+"Please update WooCommerce to the latest version! Awesome Designer only works "
+"with version 2.1 or newer."
+
+#: includes/class-wc-awesome-back.php:111
+msgid ""
+"GD library is not installed on your web server. If you do not know how to "
+"install GD library, please ask your server provider!"
+msgstr ""
+"GD library is not installed on your web server. If you do not know how to "
+"install GD library, please ask your server provider!"
+
+#: includes/class-wc-awesome-back.php:146
+#: includes/class-wc-awesome-back.php:170
+#: includes/class-wc-awesome-back.php:209
+msgid "Awesome product"
+msgstr "Awesome product"
+
+#: includes/class-wc-awesome-back.php:244
+msgid "Image information"
+msgstr "Kép információ"
+
+#: includes/class-wc-awesome-back.php:246
+msgid "Get HD image"
+msgstr "HD image letöltése"
+
+#: includes/class-wc-awesome-back.php:312
+msgid "For more information go to theawesomedesigner.com"
+msgstr "Egyéb infókért eriggy ide ---> theawesomedesigner.com"
+
+#: includes/class-wc-awesome-back.php:331
+msgid " Enter your API KEY"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:337
+msgid ""
+"Can't exceed the upload_max_filesize directive in php.ini. For your "
+"information"
+msgstr ""
+"Can't exceed the upload_max_filesize directive in php.ini. For your "
+"information"
+
+#: includes/class-wc-awesome-back.php:354
+msgid "The mobile version has no colorpicker but a list of colors"
+msgstr "The mobile version has no colorpicker but a list of colors"
+
+#: includes/class-wc-awesome-back.php:361
+msgid ""
+"Only the colors you'll set in this field will be usable in the plugin. If "
+"you want to use a full range colorpicker, leave it blank"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:370
+msgid "Choose to display or hide tools"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:372
+msgid "Photo upload"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:373
+msgid "Text"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:374
+msgid "Clipart"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:378
+msgid "Choose to display option in waiting screen"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:380
+msgid "modify / abort"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:381
+msgid "Preview with modify option"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:386
+msgid "Quality Allowed"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:389
+msgid "No rules"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:390
+msgid "Permissive"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:391
+msgid "Median"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:392
+msgid "Max quality"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:397
+msgid "Action requested on low quality warning"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:399
+msgid "Do nothing"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:400
+msgid "Advise the user"
+msgstr ""
+
+#: includes/class-wc-awesome-back.php:401
+msgid "Disallow finishing"
+msgstr ""
+
+#: includes/class-wc-awesome-front.php:165
+msgid "Product color"
+msgstr "Termék szín"
+
+#: includes/class-wc-awesome-front.php:188
+msgid "View Product"
+msgstr "tovább &raquo;"
+
+#: includes/class-wc-awesome-front.php:191
+msgid "Add to cart"
+msgstr "Kosárba rakom"
+
+#: includes/class-wc-awesome-front.php:198
+msgid "Do you want to make a new customization from scratch ?"
+msgstr ""
+
+#: includes/class-wc-awesome-front.php:205
+#: includes/class-wc-awesome-front.php:231
+msgid "Customize"
+msgstr "Testreszabás"
+
+#: includes/front/awesome-master.php:35
+msgid ""
+"Warning! one or more photo doesn't have sufficient quality for optimal "
+"printing. Do you want to continue anyway?"
+msgstr ""
+
+#: includes/front/awesome-master.php:36
+msgid ""
+"Warning! one or more photos does not have sufficient quality for optimal "
+"printing.Please choose another one, reduce its size or zoom it out."
+msgstr ""
+
+#: includes/front/awesome-master.php:267 includes/front/awesome-mobile.php:372
+#: includes/front/awesome.php:320
+msgid "Your text..."
+msgstr "Szöveg beírása"
+
+#: includes/front/awesome-master.php:299
+msgid "QUALITY"
+msgstr ""
+
+#: includes/front/awesome-master.php:318
+msgid "Please wait while downloading your photos"
+msgstr "Kérlek várj, míg a fényképeid letöltődnek"
+
+#: includes/front/awesome-master.php:320 includes/front/awesome-master.php:327
+#: includes/front/awesome-master.php:338
+msgid "CHANGE"
+msgstr ""
+
+#: includes/front/awesome-master.php:320 includes/front/awesome-master.php:327
+msgid "ABORT"
+msgstr ""
+
+#: includes/front/awesome-master.php:325
+msgid "Generation rendering and data backup"
+msgstr "Kép számítása és lementése"
+
+#: includes/front/awesome-master.php:338
+msgid "CONFIRM"
+msgstr ""
+
+#: includes/front/awesome-mobile.php:180 includes/front/awesome.php:135
+msgid "CANCEL"
+msgstr "MÉGSEM"
+
+#: includes/front/awesome-mobile.php:183 includes/front/awesome.php:138
+msgid "VALID"
+msgstr "ÉRVÉNYES"
+
+#: includes/front/awesome-mobile.php:197
+msgid "BORDER COLOR"
+msgstr "KÖRVONAL SZÍNE"
+
+#: includes/front/awesome-mobile.php:206
+msgid "TEXT COLOR"
+msgstr "SZÖVEG SZÍNE"
+
+#: includes/front/awesome-mobile.php:215 includes/front/awesome.php:491
+#: includes/front/awesome.php:573
+msgid "CLIPART COLOR"
+msgstr "CLIPART SZÍNE"
+
+#: includes/front/awesome-mobile.php:224
+msgid "OBJECT COLOR"
+msgstr "OBJEKTUM SZÍNE"
+
+#: includes/front/awesome-mobile.php:242 includes/front/awesome-mobile.php:559
+#: includes/front/awesome.php:608
+msgid "Close"
+msgstr "Bezár"
+
+#: includes/front/awesome-mobile.php:258 includes/front/awesome.php:196
+msgid "Click on your photos or drag and drop them"
+msgstr "Kattints egy fotódra és dobd be ide!"
+
+#: includes/front/awesome-mobile.php:268 includes/front/awesome.php:208
+msgid "Collage options"
+msgstr "Kollázs lehetőségek"
+
+#: includes/front/awesome-mobile.php:272 includes/front/awesome.php:279
+msgid "Photo options"
+msgstr "Fénykép lehetőségek"
+
+#: includes/front/awesome-mobile.php:287 includes/front/awesome.php:217
+msgid "Zoom"
+msgstr "Zoom"
+
+#: includes/front/awesome-mobile.php:300 includes/front/awesome.php:232
+#: includes/front/awesome.php:383
+msgid "Border"
+msgstr "Keret"
+
+#: includes/front/awesome-mobile.php:313 includes/front/awesome.php:249
+msgid "No shape"
+msgstr "Nincs körvonal"
+
+#: includes/front/awesome-mobile.php:345 includes/front/awesome.php:288
+msgid "Photo spacing"
+msgstr "Fénykép hely"
+
+#: includes/front/awesome-mobile.php:458
+msgid "Category"
+msgstr "Kategória"
+
+#: includes/front/awesome-mobile.php:566 includes/front/awesome-mobile.php:575
+#: includes/front/awesome.php:615 includes/front/awesome.php:624
+msgid "Leave"
+msgstr ""
+
+#: includes/front/awesome-mobile.php:567 includes/front/awesome-mobile.php:576
+#: includes/front/awesome.php:616 includes/front/awesome.php:625
+msgid "OK"
+msgstr ""
+
+#: includes/front/awesome.php:12
+msgid "PRODUCT COLOR"
+msgstr "TERMÉKSZÍN"
+
+#: includes/front/awesome.php:27
+msgid "FINISH"
+msgstr "BEFEJEZÉS"
+
+#: includes/front/awesome.php:32
+msgid "Redo"
+msgstr "Ismétlés"
+
+#: includes/front/awesome.php:35
+msgid "Undo"
+msgstr "Visszavonás"
+
+#: includes/front/awesome.php:38
+msgid "New"
+msgstr "Új"
+
+#: includes/front/awesome.php:44
+msgid "No bg color"
+msgstr "Nincs háttérszín"
+
+#: includes/front/awesome.php:153
+msgid "Opacity"
+msgstr "Áttetszőség"
+
+#: includes/front/awesome.php:163
+msgid "Delete"
+msgstr "Törlés"
+
+#: includes/front/awesome.php:165
+msgid "Set to background"
+msgstr "Háttér beállítás"
+
+#: includes/front/awesome.php:168
+msgid "Flip"
+msgstr "Tükrözés"
+
+#: includes/front/awesome.php:171
+msgid "Move to back"
+msgstr "Háttérbe küld"
+
+#: includes/front/awesome.php:175
+msgid "Move to front"
+msgstr "Előre hoz"
+
+#: includes/front/awesome.php:187
+msgid "PHOTOS"
+msgstr "FOTÓK"
+
+#: includes/front/awesome.php:313
+msgid "TEXT"
+msgstr "SZÖVEGEK"
+
+#: includes/front/awesome.php:328
+msgid "Text color"
+msgstr "Szöveg szín"
+
+#: includes/front/awesome.php:368
+msgid "Text spacing"
+msgstr "Szövegköz"
+
+#: includes/front/awesome.php:397
+msgid "Border color"
+msgstr "Keret színe"
+
+#: includes/front/awesome.php:419
+msgid "No curve"
+msgstr "Nincs görbe"
+
+#: includes/front/awesome.php:422
+msgid "Curve high"
+msgstr "Görbe magasság"
+
+#: includes/front/awesome.php:425
+msgid "Curve bottom"
+msgstr "Görbe alsó"
+
+#: includes/front/awesome.php:435
+msgid "Curve"
+msgstr "Görbe"
+
+#: includes/front/awesome.php:449
+msgid "Length"
+msgstr "Hosszúság"
+
+#: includes/front/awesome.php:462
+msgid "Align right"
+msgstr "Igazítás jobbra"
+
+#: includes/front/awesome.php:465
+msgid "Align center"
+msgstr "Igazítás középre"
+
+#: includes/front/awesome.php:468
+msgid "Align left"
+msgstr "Igazítás balra"
+
+#: includes/front/awesome.php:483
+msgid "CLIPART"
+msgstr "CLIPART"
+
+#: includes/front/awesome.php:589
+msgid "Click or drag'n drop your photos uploaded"
+msgstr ""
+
+#~ msgid " Enter your API KEY or create a free one at "
+#~ msgstr "API KEY-t megadni"
